@@ -1,0 +1,21 @@
+.cards{
+    height: auto;
+    width: auto;
+    border: 3px solid black;
+    padding: 20px;
+}
+
+.cards p {
+    overflow: hidden;
+    width: 200px;
+}
+
+.event-card{
+    display: flex;
+    gap: 20px;
+}
+
+.event-card img{
+    height: 10vh;
+    width: auto;
+}
